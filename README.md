@@ -6,7 +6,6 @@
   ## Table of Contents
   * [Authors](#authors)
   * [Username](#username)
-  * [License](#license)
 
   ## Authors
   Kateryna Tekmenzhi
@@ -18,6 +17,3 @@
   
   LnTrelease16
   
-  ## License
-
-[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
