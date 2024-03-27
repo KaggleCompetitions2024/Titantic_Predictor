@@ -10,10 +10,12 @@
 
   ## Authors
   Kateryna Tekmenzhi
+
   Lincoln Trelease
   
   ## Github Username
   KaterynaTekmenzhi
+  
   LnTrelease16
   
   ## License
